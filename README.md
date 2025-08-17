@@ -10,4 +10,5 @@ A fun terminal-based trivia game written in Java. Test your programming knowledg
 
 ## Installation Instructions
 
-1. Download the repo clone the repo:
+1. Download the repo or clone the repo:
+
