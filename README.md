@@ -11,3 +11,7 @@ A fun terminal-based trivia game written in Java. Test your programming knowledg
 ## Installation Instructions
 
 1. Clone the repo:
+
+## Demo Video
+
+https://streamable.com/jnmbk1
